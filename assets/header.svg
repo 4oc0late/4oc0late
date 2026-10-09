@@ -3,9 +3,9 @@
   <desc id="desc">Личные проекты. Тёмный баннер с лаймовым акцентом.</desc>
   <rect x="1" y="1" width="1198" height="328" rx="24" fill="#0d1117" stroke="#252c35"/>
   <circle cx="66" cy="58" r="5" fill="#c3f85c"/>
-  <text x="84" y="64" fill="#a3abb6" font-family="Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="3">PERSONAL PROJECTS</text>
-  <text x="56" y="183" fill="#f1f5f9" font-family="Segoe UI,Arial,sans-serif" font-size="102" font-weight="650" letter-spacing="-4">4oc0late<tspan fill="#c3f85c">.</tspan></text>
-  <text x="60" y="235" fill="#a3abb6" font-family="Segoe UI,Arial,sans-serif" font-size="22">Небольшие проекты для повседневных задач.</text>
+  <text x="84" y="64" fill="#a3abb6" font-family="Cascadia Code,Consolas,Liberation Mono,monospace" font-size="15" letter-spacing="3">PERSONAL PROJECTS</text>
+  <text x="56" y="183" fill="#f1f5f9" font-family="Cascadia Code,Consolas,Liberation Mono,monospace" font-size="102" font-weight="700" letter-spacing="-3">4oc0late<tspan fill="#c3f85c">.</tspan></text>
+  <text x="60" y="235" fill="#a3abb6" font-family="Cascadia Code,Consolas,Liberation Mono,monospace" font-size="22">Небольшие проекты для повседневных задач.</text>
   <path d="M60 281H1140" stroke="#252c35"/>
   <path d="M60 281H198" stroke="#c3f85c" stroke-width="3" stroke-linecap="round"/>
   <g transform="translate(968 157)">
